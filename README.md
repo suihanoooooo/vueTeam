@@ -1,3 +1,4 @@
+用vue全家桶实现的项目管理，做的都是数据管理(不包含后端)。
 # vueteam
 
 > A Vue.js project
